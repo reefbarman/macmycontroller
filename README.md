@@ -7,7 +7,8 @@ MacMyController is a small, native menu-bar app for couch computing. Pick up an 
 It's deliberately simple: sensible fixed controls that work out of the box, not a button-mapping editor.
 
 <p align="center">
-  <img src="docs/images/spiral-keyboard.png" alt="The spiral keyboard: letters wind around a coil, with the selected letter highlighted in yellow and a controller legend underneath" width="460">
+  <img src="docs/images/spiral-keyboard.png" alt="The spiral keyboard: letters wind around a coil, with the selected letter highlighted in yellow and a controller legend underneath" width="400">
+  <img src="docs/images/shortcut-wheel.png" alt="The shortcut wheel: eight labelled shortcuts arranged in a circle, including Spotlight, Copy, Paste and Previous App" width="385">
 </p>
 
 > Inspired by [Controller Companion](https://store.steampowered.com/app/367670/Controller_Companion/) on Windows. MacMyController is an independent implementation for macOS.
