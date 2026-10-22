@@ -1,0 +1,16 @@
+README.md
+  h_e08a86bb3a33a2 61-68
+Sources/MacMyController/StatusView.swift
+  h_e08a86bb3a33a2 34,68,71,102
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "e0ca3ae47cc0a059b6f4ca539e92c0361f54aa62",
+  "prompts": {},
+  "humans": {
+    "h_e08a86bb3a33a2": {
+      "author": "Tristan Cartledge <tristan.cartledge@gmail.com>"
+    }
+  }
+}
