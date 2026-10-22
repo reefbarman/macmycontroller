@@ -105,3 +105,7 @@ Working day to day on the author's Macs. Next up:
 - Prebuilt, notarised releases
 
 Issues and suggestions are welcome.
+
+## Licence
+
+MIT. See [LICENSE](LICENSE).
