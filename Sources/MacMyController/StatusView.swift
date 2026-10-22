@@ -31,7 +31,7 @@ struct StatusView: View {
         ("X", "Escape"),
         ("Y", "Return"),
         ("D-pad", "Arrow keys"),
-        ("Left stick click", "Spiral keyboard (rotate the stick, A to type)"),
+        ("Left stick click", "Spiral keyboard (point the stick, A to type)"),
         ("RB (hold)", "Shortcut wheel (aim, A to run)"),
         ("View + Menu (hold 1 s)", "Pause or resume"),
     ]
@@ -65,9 +65,10 @@ struct StatusView: View {
                 .frame(maxWidth: .infinity, alignment: .leading)
                 .padding(4)
                 Text(
-                    "GeForce NOW gets the controller automatically. Use the menu bar icon to override this for the current app."
+                    "GeForce NOW gets the controller automatically. Use the menu bar icon to choose for the app in front."
                 )
                 .font(.callout)
+                .fixedSize(horizontal: false, vertical: true)
                 .foregroundStyle(.secondary)
                 .padding(.top, 4)
             }
@@ -98,6 +99,7 @@ struct StatusView: View {
                     "Input from this window is ignored while it is focused, so the diagnostics stay live without clicking anything here."
                 )
                 .font(.callout)
+                .fixedSize(horizontal: false, vertical: true)
                 .foregroundStyle(.secondary)
             }
         }

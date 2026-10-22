@@ -58,6 +58,14 @@ macOS doesn't tell other apps whether a game is using the controller, so MacMyCo
 
 Handing off never captures or hides the controller. MacMyController simply stops sending mouse and keyboard events.
 
+## Status window
+
+Choose **Status and Controls…** from the menu bar icon for the current mode, a reminder of the controls and live diagnostics: which controller is connected, the app in front and its bundle ID, and stick, trigger and button readings.
+
+<p align="center">
+  <img src="docs/images/status-window.png" alt="The status window showing Desktop controls mode, the controls list and live diagnostics for an Xbox Wireless Controller" width="420">
+</p>
+
 ## Settings
 
 Open **Settings…** from the menu bar icon to adjust pointer speed, scroll speed and keyboard size, turn on **Open at login**, and review or forget saved app choices.
